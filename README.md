@@ -4,6 +4,10 @@ This project offers a comprehensive data analysis and visualization of hospital 
 <img width="959" alt="Screenshot 2025-04-11 183456" src="https://github.com/user-attachments/assets/94927a69-caca-41bd-8f29-8820b080cd15" />
 
 ---
+🔗 Live Interactive Dashboard
+View the fully interactive Tableau dashboard here:
+https://public.tableau.com/views/EmergencyRoomDashboard_17144344266740/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+---
 
 ## 🎯 Objective
 
