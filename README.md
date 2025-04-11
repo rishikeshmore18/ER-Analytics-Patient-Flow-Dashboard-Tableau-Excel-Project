@@ -91,4 +91,23 @@ To analyze ER visitation trends, patient demographics, wait times, and satisfact
 ---
 
 ## 🧰 Project Structure
+/Emergency-Room-Operations-Dashboard/ │ ├── 01 Presentation.pptx # Stakeholder presentation slides ├── 02 Data_Viz.twbx # Tableau packaged workbook ├── 03 Report.pdf # Formal written report ├── 04 New_cleaned_dataset.xlsx # Pre-processed dataset ├── README.md # Project documentation
 
+---
+
+## 📌 Key Skills Demonstrated
+- Data Storytelling for Healthcare Decision-Making
+- Heatmap & Time-based Trend Analysis
+- Parameter-Driven What-If Forecasting
+- KPI-focused Dashboard Design
+- Stakeholder Communication & Insight Generation
+
+---
+
+## 🧑‍💼 About Me
+
+**Rishikesh More**  
+Aspiring Data/Business Analyst with a passion for healthcare analytics, SQL, Tableau & Excel.  
+📫 Email: [more.rishikesh.18@gmail.com](mailto:more.rishikesh.18@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/more-rishikesh-p07](https://www.linkedin.com/in/more-rishikesh-p07)  
+💻 GitHub: [github.com/rishikeshmore18](https://github.com/rishikeshmore18)
