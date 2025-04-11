@@ -1,4 +1,4 @@
-# 🏥 Emergency Room Operations & Insights Dashboard
+# 🏥 ER-Analytics-Patient-Flow-Dashboard-Tableau-Excel-Project
 
 This project offers a comprehensive data analysis and visualization of hospital emergency room (ER) operations using a real-world dataset. It focuses on identifying operational inefficiencies, demographic usage patterns, and seasonal trends to deliver actionable recommendations for hospital administrators, healthcare policymakers, and medical researchers.
 <img width="959" alt="Screenshot 2025-04-11 183456" src="https://github.com/user-attachments/assets/94927a69-caca-41bd-8f29-8820b080cd15" />
